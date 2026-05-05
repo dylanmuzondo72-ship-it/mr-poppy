@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-label="Mr Poppy logo">
+  <defs>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect x="8" y="12" width="744" height="166" rx="48" fill="#14a8e8" filter="url(#softShadow)"/>
+  <text x="60" y="122" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="78" font-weight="900" fill="white" letter-spacing="2">MR. P</text>
+  <g transform="translate(356 95)">
+    <circle r="22" fill="#ffd12e"/>
+    <g stroke="#ffd12e" stroke-width="12" stroke-linecap="round">
+      <line x1="0" y1="-48" x2="0" y2="-68"/>
+      <line x1="0" y1="48" x2="0" y2="68"/>
+      <line x1="-48" y1="0" x2="-68" y2="0"/>
+      <line x1="48" y1="0" x2="68" y2="0"/>
+      <line x1="34" y1="-34" x2="49" y2="-49"/>
+      <line x1="34" y1="34" x2="49" y2="49"/>
+      <line x1="-34" y1="-34" x2="-49" y2="-49"/>
+      <line x1="-34" y1="34" x2="-49" y2="49"/>
+    </g>
+  </g>
+  <text x="430" y="122" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="78" font-weight="900" fill="white" letter-spacing="2">PPY</text>
+</svg>
